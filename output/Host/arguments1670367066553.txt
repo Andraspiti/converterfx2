@@ -1,0 +1,10 @@
+setMips: 1000.0
+setRam: 2048
+setAvailableBw: 10000
+setId: 0
+setStorage: 1000000
+setMips: 1000.0
+setRam: 2048
+setAvailableBw: 10000
+setId: 0
+setStorage: 1000000
